@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.secunda.casa/blog/</loc>
-    <lastmod>2026-05-21T12:02:16+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.secunda.casa/blog/hello-world/</loc>
-    <lastmod>2026-05-21T12:02:16+02:00</lastmod>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.secunda.casa/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.secunda.casa/blog/testing/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.secunda.casa/blog/hello-world/</loc>
     <lastmod>2026-05-21T12:02:16+02:00</lastmod>
   </url><url>
     <loc>https://blog.secunda.casa/categories/</loc>
