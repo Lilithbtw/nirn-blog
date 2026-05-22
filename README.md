@@ -1,1 +1,1 @@
-# 
+# My stupid faggot blog
