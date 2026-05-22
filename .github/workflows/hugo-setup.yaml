@@ -24,3 +24,11 @@ jobs:
 
       - name: Build
         run: hugo
+
+      - name: Deploy static HTML to branch
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: html-output
