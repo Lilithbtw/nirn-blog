@@ -4,6 +4,8 @@ date: 2026-06-24
 time: 13:04
 draft: false
 ---
+![[galaxy-anime.gif]]
+
 I should probably start by saying that even though the title makes it seem like I'm going to kill myself i am in fact not going to do that, anyone who knows me, knows I'm too much of a pussy to actually do it.
 
 This blog post is supposed to be a final goodbye to someome who was once important to me.
@@ -32,4 +34,5 @@ I truly hope college doesn't go wrong and you don't kill yourself.
 
 Thank you for the best almost 2 years of my life and i hope we don't have to talk to eachother again.
 
-Goodbye.
+Goodbye
+
