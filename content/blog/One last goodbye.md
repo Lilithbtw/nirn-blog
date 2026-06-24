@@ -4,7 +4,7 @@ date: 2026-06-24
 time: 13:04
 draft: false
 ---
-![star anime gif](images/galaxy-anime.gif)
+![star anime gif](/images/galaxy-anime.gif)
 
 I should probably start by saying that even though the title makes it seem like I'm going to kill myself i am in fact not going to do that, anyone who knows me, knows I'm too much of a pussy to actually do it.
 
