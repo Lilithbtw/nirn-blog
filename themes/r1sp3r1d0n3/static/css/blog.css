@@ -111,6 +111,7 @@
 .post-content img {
     width: 96%;
     height: auto;
+    align: center;
 }
 
 .post-content a {
