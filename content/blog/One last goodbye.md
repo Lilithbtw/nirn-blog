@@ -36,3 +36,4 @@ Thank you for the best almost 2 years of my life and i hope we don't have to tal
 
 Goodbye
 
+![asuka breaking down](/images/asuka-langley-soryu-asuka.gif)
